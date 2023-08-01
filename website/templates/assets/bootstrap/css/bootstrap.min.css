@@ -14921,6 +14921,11 @@ img::-moz-selection {
     #about {
         padding: 0 !important;
     }
+
+    .ser-row {
+        --bs-gutter-x: 1.5rem !important;
+    }
+
   }
   
   
